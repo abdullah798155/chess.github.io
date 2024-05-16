@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom right, #314755, #26a0da);
+    background: linear-gradient(45deg, rgb(81, 81, 242),aqua) fixed;
     
 }
 
@@ -16,6 +16,9 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     animation: scaleUp 1s ease forwards;
     animation: pulse 1s ease forwards;
+}
+#header{
+    border-radius:10px;
 }
 
 h1 {
