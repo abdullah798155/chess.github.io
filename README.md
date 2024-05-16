@@ -35,5 +35,5 @@ For more information about FEN notation, you can visit the [Wikipedia page](http
 
 This project was created by **MOHAMMED ABDULLAH**  
 
-*[I have hosted it on another github acc for naiming conventions required for Github pages (https://github.com/chess50).*
+*[I have hosted it on another github acc for naming conventions required for Github pages (https://github.com/chess50).*
 
